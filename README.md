@@ -13,22 +13,7 @@ The dataset used in this project is [Data Source](https://www.kaggle.com/dataset
 
 Run it with Python.
 
-It contains the following features: 
 
- 1. RowNumber
- 2. CustomerId
- 3. Surname
- 4. CreditScore
- 5. Geography
- 6. Gender
- 7. Age
- 8. Tenure
- 9. Balance
- 10. NumOfProducts
- 11. HasCrCard
- 12. IsActiveMember
- 13. EstimatedSalary
- 14. Exited
 
 The main variables of interest is **Exited**.
 
@@ -50,9 +35,7 @@ The following libraries are required to run the notebook:
 
 
 
-#### Overall:
 
-Gradient Boosting appears to be the best model for this churn prediction task, followed closely by XGBoost. These models are able to better handle the class imbalance and provide a good balance between precision and recall. 
 
 
 
